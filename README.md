@@ -1,4 +1,4 @@
-                                                Customer Segmentation Analysis
+                                                Customer Segmentation using RFM Analysis
 
 
 
