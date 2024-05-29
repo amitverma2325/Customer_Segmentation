@@ -1,5 +1,12 @@
                                                 Customer Segmentation Analysis
 
+
+
+                       ![Screenshot 2024-05-29 151722](https://github.com/amitverma2325/Customer_Segmentation/assets/159435374/1ad8494b-bdce-4a94-98b5-699f5155e36a)
+
+
+                                                
+
 Customer segmentation is a way to split customers into groups based on certain characteristics that those customers share. All customers share the common need of your product or service, but beyond that, there are distinct demographic differences (i.e., age, gender) and they tend to have additional socio-economic, lifestyle, or other behavioral differences that can be useful to the organization.
 
 In this project i have calculated RFM scores and then applied KMeans clustering and found the no of optimized clusters.
