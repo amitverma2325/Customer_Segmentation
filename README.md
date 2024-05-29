@@ -2,8 +2,9 @@
 
 
 
-                       ![Screenshot 2024-05-29 151722](https://github.com/amitverma2325/Customer_Segmentation/assets/159435374/1ad8494b-bdce-4a94-98b5-699f5155e36a)
+                         
 
+![Screenshot 2024-05-29 151722](https://github.com/amitverma2325/Customer_Segmentation/assets/159435374/40d10ef2-b1eb-416d-b17a-ddf60e0b38bb)
 
                                                 
 
